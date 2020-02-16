@@ -1,3 +1,5 @@
 # Jeu_des_Allumettes
-*Jeu des allumettes écrit en C, jouable sur terminal.* 
+
+*Jeu des allumettes écrit en C, jouable sur terminal.*
+
 **OS: Linux**
